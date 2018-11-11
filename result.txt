@@ -1,44 +1,5 @@
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
+%images with obj%
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112016_HDR.JPG, mathes: 35954, good: 292, delta: 35662, time/size: 69.1991574396 sec, localization error: 1168.84982013
-
-=======police bobik=======
-
-=======images with obj=======
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111752.jpg, mathes: 35954, good: 35954, delta: 0, time/size: 27.7120294505 sec, localization error: 654.823197469
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111805_HDR.jpg, mathes: 35954, good: 4681, delta: 31273, time/size: 36.2457273008 sec, localization error: 394.896365448
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111815_HDR.jpg, mathes: 35954, good: 1086, delta: 34868, time/size: 32.9175068806 sec, localization error: 278.369824478
@@ -61,14 +22,6 @@ img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112002_HDR.jpg, mathes
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112006_HDR.jpg, mathes: 35954, good: 289, delta: 35665, time/size: 51.5991731379 sec, localization error: 1068.00029558
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112010_HDR.jpg, mathes: 35954, good: 293, delta: 35661, time/size: 40.065496046 sec, localization error: 1230.10507984
 img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112016_HDR.jpg, mathes: 35954, good: 292, delta: 35662, time/size: 65.243022247 sec, localization error: 1168.84982013
-
-=======police bobik=======
-
-=======images with obj=======
-
-=======police bobik=======
-
-=======images with obj=======
 img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112210_HDR.jpg, mathes: 35954, good: 314, delta: 35640, time/size: 47.9939395801 sec, localization error: 1508.52730327
 img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112217_HDR.jpg, mathes: 35954, good: 304, delta: 35650, time/size: 37.9070042416 sec, localization error: 829.829513721
 img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112223_HDR.jpg, mathes: 35954, good: 310, delta: 35644, time/size: 54.5780834673 sec, localization error: 917.241352977
