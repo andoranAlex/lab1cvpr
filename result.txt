@@ -1,0 +1,128 @@
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112016_HDR.JPG, mathes: 35954, good: 292, delta: 35662, time/size: 69.1991574396 sec, localization error: 1168.84982013
+
+=======police bobik=======
+
+=======images with obj=======
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111752.jpg, mathes: 35954, good: 35954, delta: 0, time/size: 27.7120294505 sec, localization error: 654.823197469
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111805_HDR.jpg, mathes: 35954, good: 4681, delta: 31273, time/size: 36.2457273008 sec, localization error: 394.896365448
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111815_HDR.jpg, mathes: 35954, good: 1086, delta: 34868, time/size: 32.9175068806 sec, localization error: 278.369824478
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111819_HDR.jpg, mathes: 35954, good: 2320, delta: 33634, time/size: 28.5273964738 sec, localization error: 352.800104257
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111827_HDR.jpg, mathes: 35954, good: 794, delta: 35160, time/size: 31.7373408361 sec, localization error: 633.919244688
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111832_HDR.jpg, mathes: 35954, good: 971, delta: 34983, time/size: 38.8289065182 sec, localization error: 452.076112898
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111836_HDR.jpg, mathes: 35954, good: 780, delta: 35174, time/size: 34.663188253 sec, localization error: 313.5471234
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111841_HDR.jpg, mathes: 35954, good: 755, delta: 35199, time/size: 32.5842877783 sec, localization error: 722.300214526
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111846_HDR.jpg, mathes: 35954, good: 390, delta: 35564, time/size: 31.5247084789 sec, localization error: 578.746467913
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111853_HDR.jpg, mathes: 35954, good: 374, delta: 35580, time/size: 35.7347865206 sec, localization error: 631.031713336
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111858_HDR.jpg, mathes: 35954, good: 337, delta: 35617, time/size: 39.2238493456 sec, localization error: 508.549426857
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111902_HDR.jpg, mathes: 35954, good: 430, delta: 35524, time/size: 39.890113948 sec, localization error: 392.804360629
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111908_HDR.jpg, mathes: 35954, good: 910, delta: 35044, time/size: 34.9129590617 sec, localization error: 129.073052102
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111918_HDR.jpg, mathes: 35954, good: 474, delta: 35480, time/size: 45.0348727889 sec, localization error: 513.567291845
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111922_HDR.jpg, mathes: 35954, good: 438, delta: 35516, time/size: 38.4498342634 sec, localization error: 249.872467789
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111927_HDR.jpg, mathes: 35954, good: 419, delta: 35535, time/size: 40.4828111785 sec, localization error: 456.686090982
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111933_HDR.jpg, mathes: 35954, good: 345, delta: 35609, time/size: 33.6230695416 sec, localization error: 155.346822611
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_111958_HDR.jpg, mathes: 35954, good: 371, delta: 35583, time/size: 68.0611460098 sec, localization error: 476.286113356
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112002_HDR.jpg, mathes: 35954, good: 289, delta: 35665, time/size: 72.4549064964 sec, localization error: 1015.78685378
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112006_HDR.jpg, mathes: 35954, good: 289, delta: 35665, time/size: 51.5991731379 sec, localization error: 1068.00029558
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112010_HDR.jpg, mathes: 35954, good: 293, delta: 35661, time/size: 40.065496046 sec, localization error: 1230.10507984
+img: C:\Users\Oleksii\Pictures\cvprlab1\good\IMG_20181104_112016_HDR.jpg, mathes: 35954, good: 292, delta: 35662, time/size: 65.243022247 sec, localization error: 1168.84982013
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112210_HDR.jpg, mathes: 35954, good: 314, delta: 35640, time/size: 47.9939395801 sec, localization error: 1508.52730327
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112217_HDR.jpg, mathes: 35954, good: 304, delta: 35650, time/size: 37.9070042416 sec, localization error: 829.829513721
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112223_HDR.jpg, mathes: 35954, good: 310, delta: 35644, time/size: 54.5780834673 sec, localization error: 917.241352977
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112227_HDR.jpg, mathes: 35954, good: 294, delta: 35660, time/size: 74.6712612464 sec, localization error: 1102.8302865
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112233_HDR.jpg, mathes: 35954, good: 356, delta: 35598, time/size: 61.4254409843 sec, localization error: 483.965107957
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112240_HDR.jpg, mathes: 35954, good: 344, delta: 35610, time/size: 63.9754746211 sec, localization error: 442.458602299
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112243_HDR.jpg, mathes: 35954, good: 387, delta: 35567, time/size: 33.3942579872 sec, localization error: 574.27960805
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112252_HDR.jpg, mathes: 35954, good: 374, delta: 35580, time/size: 35.3566530824 sec, localization error: 364.98667132
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112255_HDR.jpg, mathes: 35954, good: 486, delta: 35468, time/size: 36.710096602 sec, localization error: 474.847207906
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112259_HDR.jpg, mathes: 35954, good: 349, delta: 35605, time/size: 65.1916170857 sec, localization error: 487.591060623
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112303_HDR.jpg, mathes: 35954, good: 376, delta: 35578, time/size: 46.8407229543 sec, localization error: 296.00433419
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112308_HDR.jpg, mathes: 35954, good: 280, delta: 35674, time/size: 63.5545703766 sec, localization error: 812.510111899
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112311_HDR.jpg, mathes: 35954, good: 324, delta: 35630, time/size: 76.7781537849 sec, localization error: 593.397376475
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112317_HDR.jpg, mathes: 35954, good: 284, delta: 35670, time/size: 43.5808544365 sec, localization error: 778.690539684
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112331_HDR.jpg, mathes: 35954, good: 332, delta: 35622, time/size: 41.8184880584 sec, localization error: 1211.31339632
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112336_HDR.jpg, mathes: 35954, good: 369, delta: 35585, time/size: 40.1896873608 sec, localization error: 946.877838007
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112340_HDR.jpg, mathes: 35954, good: 326, delta: 35628, time/size: 49.6301092017 sec, localization error: 917.373037202
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112346_HDR.jpg, mathes: 35954, good: 371, delta: 35583, time/size: 41.0886893213 sec, localization error: 496.922107961
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112349_HDR.jpg, mathes: 35954, good: 331, delta: 35623, time/size: 42.3237939522 sec, localization error: 781.867214457
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112357_HDR.jpg, mathes: 35954, good: 293, delta: 35661, time/size: 62.3805611714 sec, localization error: 297.604986169
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112400_HDR.jpg, mathes: 35954, good: 290, delta: 35664, time/size: 48.0751451222 sec, localization error: 483.144672842
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112404_HDR.jpg, mathes: 35954, good: 372, delta: 35582, time/size: 40.7572242089 sec, localization error: 665.079053524
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112408_HDR.jpg, mathes: 35954, good: 252, delta: 35702, time/size: 50.7034141653 sec, localization error: 230.728867498
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112413_HDR.jpg, mathes: 35954, good: 303, delta: 35651, time/size: 48.4312941603 sec, localization error: 499.34115949
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112419_HDR.jpg, mathes: 35954, good: 360, delta: 35594, time/size: 77.3723995152 sec, localization error: 363.528180953
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112423_HDR.jpg, mathes: 35954, good: 365, delta: 35589, time/size: 67.2842627976 sec, localization error: 160.043474254
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112426_HDR.jpg, mathes: 35954, good: 365, delta: 35589, time/size: 57.9818541362 sec, localization error: 259.717195329
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112430_HDR.jpg, mathes: 35954, good: 368, delta: 35586, time/size: 58.5029007527 sec, localization error: 474.584017853
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112433_HDR.jpg, mathes: 35954, good: 355, delta: 35599, time/size: 43.3156645247 sec, localization error: 463.946851966
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112437_HDR.jpg, mathes: 35954, good: 368, delta: 35586, time/size: 46.841395602 sec, localization error: 374.277609949
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112441_HDR.jpg, mathes: 35954, good: 377, delta: 35577, time/size: 71.0586841623 sec, localization error: 154.444989766
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112451_HDR.jpg, mathes: 35954, good: 343, delta: 35611, time/size: 97.5518431759 sec, localization error: 820.926753214
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112500_HDR.jpg, mathes: 35954, good: 325, delta: 35629, time/size: 80.7710258923 sec, localization error: 455.35998777
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112506_HDR.jpg, mathes: 35954, good: 324, delta: 35630, time/size: 106.627649121 sec, localization error: 734.744371077
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112513_HDR.jpg, mathes: 35954, good: 310, delta: 35644, time/size: 76.8741035783 sec, localization error: 672.04707644
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112517_HDR.jpg, mathes: 35954, good: 322, delta: 35632, time/size: 83.5474036495 sec, localization error: 386.006304447
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112526_HDR.jpg, mathes: 35954, good: 991, delta: 34963, time/size: 33.3472345121 sec, localization error: 161.00825834
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112530_HDR.jpg, mathes: 35954, good: 454, delta: 35500, time/size: 47.618320692 sec, localization error: 372.602742271
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112536_HDR.jpg, mathes: 35954, good: 618, delta: 35336, time/size: 33.9072779264 sec, localization error: 632.21372048
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112542_HDR.jpg, mathes: 35954, good: 1173, delta: 34781, time/size: 35.6943696356 sec, localization error: 201.065715356
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112546_HDR.jpg, mathes: 35954, good: 873, delta: 35081, time/size: 32.7323814756 sec, localization error: 95.1582516039
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112549_HDR.jpg, mathes: 35954, good: 534, delta: 35420, time/size: 39.9257275182 sec, localization error: 130.81136787
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112553_HDR.jpg, mathes: 35954, good: 807, delta: 35147, time/size: 34.2937926785 sec, localization error: 269.64444282
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112557_HDR.jpg, mathes: 35954, good: 1416, delta: 34538, time/size: 35.2575701576 sec, localization error: 158.77435603
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112604_HDR.jpg, mathes: 35954, good: 1397, delta: 34557, time/size: 36.7201525091 sec, localization error: 345.686616933
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112608_HDR.jpg, mathes: 35954, good: 678, delta: 35276, time/size: 34.0909811081 sec, localization error: 573.83108947
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112632_HDR.jpg, mathes: 35954, good: 299, delta: 35655, time/size: 54.7964954419 sec, localization error: 1145.58751423
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112711_HDR.jpg, mathes: 35954, good: 217, delta: 35737, time/size: 63.1066650324 sec, localization error: 919.126344768
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112730_HDR.jpg, mathes: 35954, good: 370, delta: 35584, time/size: 65.4490668999 sec, localization error: 295.882520116
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112735_HDR.jpg, mathes: 35954, good: 393, delta: 35561, time/size: 19.5254762296 sec, localization error: 439.735828627
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112740_HDR.jpg, mathes: 35954, good: 288, delta: 35666, time/size: 80.5625824822 sec, localization error: 730.2724353
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112746_HDR.jpg, mathes: 35954, good: 335, delta: 35619, time/size: 72.3176161496 sec, localization error: 620.027202006
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112755_HDR.jpg, mathes: 35954, good: 290, delta: 35664, time/size: 61.4181534913 sec, localization error: 975.57776622
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112825_HDR.jpg, mathes: 35954, good: 232, delta: 35722, time/size: 90.6283239042 sec, localization error: 393.162310887
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112830_HDR.jpg, mathes: 35954, good: 288, delta: 35666, time/size: 45.4441966002 sec, localization error: 498.384120746
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112834_HDR.jpg, mathes: 35954, good: 300, delta: 35654, time/size: 59.0532414144 sec, localization error: 257.601149063
+img: C:\Users\Oleksii\Pictures\cvprlab1\good1\IMG_20181104_112846_HDR.jpg, mathes: 35954, good: 243, delta: 35711, time/size: 52.6409972807 sec, localization error: 568.541910198
